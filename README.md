@@ -88,11 +88,14 @@ python evaluation.py \
 
 ## Citation
 ```bibtex
-@article{liu2025pcsr,
+@inproceedings{liu2026pcsr,
   title={PCSR: Pseudo-label Consistency-Guided Sample Refinement for Noisy Correspondence Learning},
   author={Liu, Zhuoyao and Liu, Yang and Feng, Wentao and Huang, Shudong},
-  journal={arXiv preprint arXiv:2509.15623},
-  year={2025}
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={28},
+  pages={24008--24016},
+  year={2026}
 }
 ```
 
