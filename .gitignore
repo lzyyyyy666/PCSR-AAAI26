@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Training artifacts
+output/
+*.log
+*.pth
+*.pth.tar
+*.pt
+
+# Temporary evaluation artifacts
+unique_indices.txt
